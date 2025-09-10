@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Creative+Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 </div>
 
@@ -14,24 +14,12 @@
 
 I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turning innovative ideas into reality through clean, efficient code. I enjoy exploring cutting-edge technologies and building solutions that make a difference.
 
-```javascript
-const developer = {
-    name: "Thae Shwe Sin",
-    location: "Myanmar 🇲🇲",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    architecture: ["MVC", "Microservices", "REST APIs", "JAMstack"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    cloud: ["AWS", "Vercel", "Netlify"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug faster with music on! 🎵"
-};
-```
+
 
 - 🔭 Currently working on **e-commerce platforms** and **open source projects**
 - 🌱 Learning **cloud architecture** and **advanced React patterns**
 - 👯 Looking to collaborate on **innovative web applications**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
+- 💬 Ask me about **JavaScript, Vue.js, or anything tech**
 - 📫 Reach me at: **your.email@example.com**
 - ⚡ Fun fact: **I can code for hours with just coffee and good music!**
 
@@ -44,23 +32,21 @@ const developer = {
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+]![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -177,13 +163,7 @@ const developer = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaeshwesin29/thaeshwesin29/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaeshwesin29/thaeshwesin29/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thaeshwesin29/thaeshwesin29/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### 🌟 Show some ❤️ by starring some of the repositories!
 
