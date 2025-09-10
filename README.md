@@ -20,7 +20,7 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 - 🌱 Learning **cloud architecture** and **advanced React patterns**
 - 👯 Looking to collaborate on **innovative web applications**
 - 💬 Ask me about **JavaScript, Vue.js, or anything tech**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **thaeshwesin2000@gmail.com**
 - ⚡ Fun fact: **I can code for hours with just coffee and good music!**
 
 ---
