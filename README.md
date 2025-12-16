@@ -14,8 +14,6 @@
 
 I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turning innovative ideas into reality through clean, efficient code. I enjoy exploring cutting-edge technologies and building solutions that make a difference.
 
-
-
 - 🔭 Currently working on **e-commerce platforms** and **open source projects**
 - 🌱 Learning **cloud architecture** and **advanced React patterns**
 - 👯 Looking to collaborate on **innovative web applications**
@@ -34,11 +32,9 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 ### Frontend
-]![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -77,13 +73,34 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 
 ---
 
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaeshwesin29&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=58a6ff&point=58a6ff" alt="Contribution Graph"/>
+  
+  ### 🗓️ Contribution Calendar
+  ![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=thaeshwesin29&theme=github-compact&bg_color=0d1117&hide_border=true&color=2E96FF&line=2E96FF&point=ffffff&area=true&area_color=2E96FF)
+  
+  ### 📊 Contribution Stats
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Total Contributions</strong><br>
+        <span style="font-size: 24px;">8</span><br>
+        <small>Jun 27, 2024 - Present</small>
+      </td>
+      <td align="center">
+        <strong>Current Streak</strong><br>
+        <span style="font-size: 24px;">0 days</span><br>
+        <small>Last: Dec 15</small>
+      </td>
+      <td align="center">
+        <strong>Longest Streak</strong><br>
+        <span style="font-size: 24px;">4 days</span><br>
+        <small>Oct 18 - Oct 21</small>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
@@ -115,8 +132,6 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 
 ---
 
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -126,7 +141,6 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thae-shwe-sin-2a6a90368/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaeshwesin2000@gmail.com)
-
 
 </div>
 
@@ -148,7 +162,7 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thaeshwesin29&label=Profile%20Views&color=brightgreen&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/thaeshwesin29?label=Followers&style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/thaeshwesin29?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow)
+![Stars](https://img.shields.io/badge/Stars-⭐-yellow?style=flat-square)
 
 </div>
 
@@ -159,8 +173,6 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 ### 💭 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-
 
 ### 🌟 Show some ❤️ by starring some of the repositories!
 
