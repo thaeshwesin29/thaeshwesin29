@@ -2,7 +2,7 @@
 
 # Hi there! I'm Thae Shwe Sin 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Creative+Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;ASP.NET+%26+Laravel+Engineer;System+Design+Learner;Clean+Code+Advocate" alt="Typing Animation" />
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
@@ -12,14 +12,26 @@
 
 ## 🚀 About Me
 
-I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turning innovative ideas into reality through clean, efficient code. I enjoy exploring cutting-edge technologies and building solutions that make a difference.
+I'm a **Full Stack Developer** from Myanmar 🇲🇲 with strong experience in **modern web applications** and **scalable backend systems**.
 
-- 🔭 Currently working on **e-commerce platforms** and **open source projects**
-- 🌱 Learning **cloud architecture** and **advanced React patterns**
-- 👯 Looking to collaborate on **innovative web applications**
-- 💬 Ask me about **JavaScript, Vue.js, or anything tech**
+I focus on writing **clean, maintainable, and production-ready code**, and I enjoy working with both **JavaScript ecosystems** and **.NET technologies**.
+
+- 🔭 Building **E-commerce systems**, **Admin dashboards**, and **REST APIs**
+- 💡 Strong in **Laravel + Vue + Tailwind architecture**
+- 🧠 Now learning **ASP.NET Core & enterprise backend patterns**
+- ⚙️ Interested in **System Design & Scalable Architectures**
 - 📫 Reach me at: **thaeshwesin2000@gmail.com**
-- ⚡ Fun fact: **I can code for hours with just coffee and good music!**
+
+---
+
+## 🧠 Core Skills
+
+- ✅ Full Stack Development (Frontend + Backend)
+- ✅ REST API Design & Integration
+- ✅ Authentication (JWT, Sanctum, Cookies, Security Best Practices)
+- ✅ Clean Architecture (Service-Repository Pattern)
+- ✅ Database Design & Optimization
+- ✅ Performance Optimization & Debugging
 
 ---
 
@@ -27,108 +39,85 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
+
+### ⚙️ Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-02569B?style=for-the-badge)
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
+
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+---
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
+
+---
+
+## 🏗️ Architecture & Practices
+
+- 🧩 Service-Repository Pattern (Laravel & .NET)
+- 🔐 Secure Authentication (JWT, HttpOnly Cookies, CSRF Protection)
+- 🧪 API Testing with Postman
+- 🐳 Docker-based Development Environment
+- ⚡ Performance Optimization (Lazy Loading, Caching, Query Optimization)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaeshwesin29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaeshwesin29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaeshwesin29&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaeshwesin29&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaeshwesin29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-  ### 🗓️ Contribution Calendar
-  ![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=thaeshwesin29&theme=github-compact&bg_color=0d1117&hide_border=true&color=2E96FF&line=2E96FF&point=ffffff&area=true&area_color=2E96FF)
-  
-  ### 📊 Contribution Stats
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Total Contributions</strong><br>
-        <span style="font-size: 24px;">8</span><br>
-        <small>Jun 27, 2024 - Present</small>
-      </td>
-      <td align="center">
-        <strong>Current Streak</strong><br>
-        <span style="font-size: 24px;">0 days</span><br>
-        <small>Last: Dec 15</small>
-      </td>
-      <td align="center">
-        <strong>Longest Streak</strong><br>
-        <span style="font-size: 24px;">4 days</span><br>
-        <small>Oct 18 - Oct 21</small>
-      </td>
-    </tr>
-  </table>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaeshwesin29&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 What I'm Building
-- **E-commerce Platform** - Full-stack application with React & Node.js
-- **API Development** - RESTful services for mobile apps
-- **Open Source Projects** - Contributing to community tools
-- **Personal Portfolio** - Showcase of my best work
-
-</td>
-<td width="50%">
-
-### 🌱 What I'm Learning
-- **Advanced TypeScript** - Better type safety and patterns
-- **Cloud Architecture** - AWS services and deployment
-- **DevOps Practices** - CI/CD pipelines and automation
-- **System Design** - Scalable application architecture
-
-</td>
-</tr>
-</table>
+- 🚀 Building **scalable full-stack systems**
+- 🧠 Mastering **ASP.NET Core (Web API, Authentication, Middleware)**
+- ☁️ Improving **Cloud & Deployment (AWS + Docker)**
+- 📐 Learning **System Design (High-level + Low-level)**
 
 ---
 
@@ -136,54 +125,19 @@ I'm a **passionate Full Stack Developer** from Myanmar 🇲🇲 who loves turnin
 
 <div align="center">
 
-### 📫 How to reach me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thae-shwe-sin-2a6a90368/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaeshwesin2000@gmail.com)
 
 </div>
 
 ---
 
-## 🎵 Spotify Playing
-
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+### 💭 Developer Mindset
 
-</div>
+> "First, solve the problem. Then, write the code."
 
----
-
-## ⚡ Quick Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=thaeshwesin29&label=Profile%20Views&color=brightgreen&style=flat-square)
-![Followers](https://img.shields.io/github/followers/thaeshwesin29?label=Followers&style=flat-square&color=blue)
-![Stars](https://img.shields.io/badge/Stars-⭐-yellow?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-### 🌟 Show some ❤️ by starring some of the repositories!
-
-</div>
-
----
-
-<div align="center">
-
-**"The best way to predict the future is to create it."** - Peter Drucker
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+### 🌟 Keep Building. Keep Learning. 🚀
 
 </div>
