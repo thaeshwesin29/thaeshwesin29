@@ -43,6 +43,7 @@ I focus on writing **clean, maintainable, and production-ready code**, and I enj
 
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,php,cs" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
