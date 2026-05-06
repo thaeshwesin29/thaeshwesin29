@@ -43,7 +43,6 @@ I focus on writing **clean, maintainable, and production-ready code**, and I enj
 
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,php,cs" />
-  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
@@ -84,6 +83,8 @@ I focus on writing **clean, maintainable, and production-ready code**, and I enj
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+
 </p>
 
 ---
