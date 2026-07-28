@@ -2,10 +2,10 @@
 
 # Hi, I'm Thae Shwe Sin 👋
 
-### Full-Stack & Mobile Application Developer
+### Full-Stack Developer
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=760&lines=Laravel+%7C+ASP.NET+Core+%7C+Vue.js;React+Native+Mobile+Developer;Building+Secure+and+Scalable+Applications;Clean+Architecture+%7C+System+Design;Turning+Ideas+into+Real+Products"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=760&lines=Laravel+%7C+ASP.NET+Core+%7C+Vue.js;Learning+React+Native+Mobile+Development;Building+Secure+and+Scalable+Applications;Clean+Architecture+%7C+System+Design;Turning+Ideas+into+Real+Products"
 alt="Typing animation"
 />
 
@@ -14,7 +14,7 @@ alt="Typing animation"
 <img
 src="./anime-girl.png"
 width="340"
-alt="Cute anime girl developer working on a laptop"
+alt="Cute anime girl learning mobile development"
 />
 
 <br/><br/>
@@ -22,16 +22,21 @@ alt="Cute anime girl developer working on a laptop"
 <a href="https://www.linkedin.com/in/thae-shwe-sin-2a6a90368/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:thaeshwesin2000@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 <a href="https://github.com/thaeshwesin29">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=thaeshwesin29&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views"/>
+<img
+src="https://komarev.com/ghpvc/?username=thaeshwesin29&label=Profile%20Views&color=8B5CF6&style=flat-square"
+alt="Profile views"
+/>
 
 </div>
 
@@ -43,9 +48,9 @@ alt="Cute anime girl developer working on a laptop"
 
 </div>
 
-I am a **Full-Stack and Mobile Application Developer from Myanmar** who enjoys building secure, scalable, and user-friendly digital products.
+I am a **Full-Stack Developer from Myanmar** who enjoys building secure, scalable, and user-friendly digital products.
 
-My main experience is in **Laravel, Vue.js, JavaScript, PHP, and MySQL**. I am also improving my skills in **ASP.NET Core** for enterprise backend development and **React Native** for cross-platform mobile applications.
+My main experience is in **Laravel, Vue.js, JavaScript, PHP, and MySQL**. I am currently strengthening my backend skills with **ASP.NET Core** and learning **React Native** for cross-platform mobile development.
 
 I enjoy transforming business ideas into reliable applications with clean architecture, reusable components, secure APIs, and professional user interfaces.
 
@@ -61,14 +66,17 @@ location: Myanmar
 
 roles:
   - Full-Stack Developer
-  - Mobile App Developer
   - Backend Developer
 
 main_stack:
   - Laravel
   - Vue.js
-  - React Native
+  - PHP
+  - MySQL
+
+currently_learning:
   - ASP.NET Core
+  - React Native
 
 interests:
   - Clean Architecture
@@ -77,12 +85,13 @@ interests:
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ✨ What I Build
 
 - Full-stack web applications
-- React Native mobile applications
+- React Native practice projects while learning mobile development
 - Secure RESTful APIs
 - Admin and financial dashboards
 - E-commerce platforms
@@ -104,49 +113,76 @@ interests:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,php,cs" alt="Programming languages"/>
+<img
+src="https://skillicons.dev/icons?i=javascript,typescript,php,cs"
+alt="Programming languages"
+/>
 
 <br/><br/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind" alt="Frontend technologies"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind"
+alt="Frontend technologies"
+/>
 
 <br/><br/>
 
-### Mobile Development
+### Mobile Development — Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
+<img
+src="https://skillicons.dev/icons?i=react"
+alt="React Native"
+/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/React_Native-Cross--Platform_Mobile-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Android-Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/iOS-Mobile_Development-111827?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+<img
+src="https://img.shields.io/badge/React_Native-Currently_Learning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+alt="React Native"
+/>
+
+<img
+src="https://img.shields.io/badge/Expo-Currently_Learning-111827?style=for-the-badge&logo=expo&logoColor=white"
+alt="Expo"
+/>
 
 <br/><br/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs" alt="Backend technologies"/>
+<img
+src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs"
+alt="Backend technologies"
+/>
 
 <br/><br/>
 
 ### Databases and Caching
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database technologies"/>
+<img
+src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"
+alt="Database technologies"
+/>
 
 <br/><br/>
 
 ### DevOps and Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux" alt="DevOps technologies"/>
+<img
+src="https://skillicons.dev/icons?i=docker,aws,nginx,linux"
+alt="DevOps technologies"
+/>
 
 <br/><br/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,figma" alt="Development tools"/>
+<img
+src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,figma"
+alt="Development tools"
+/>
 
 </div>
 
@@ -160,6 +196,7 @@ interests:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌐 Web Development
@@ -176,31 +213,34 @@ interests:
 - Performance optimization
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📱 Mobile Development
+### 📱 Mobile Development — Learning
 
-- React Native applications
-- Cross-platform Android and iOS apps
+- React Native fundamentals
 - Expo development workflow
-- Mobile navigation architecture
+- Cross-platform Android and iOS concepts
+- Mobile navigation basics
 - Reusable mobile components
 - REST API integration
-- Secure authentication flows
+- Mobile authentication flows
 - Form handling and validation
 - Responsive mobile layouts
-- Mobile debugging and testing
+- Mobile debugging and testing basics
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Engineering
 
 - Laravel application development
-- ASP.NET Core Web APIs
+- ASP.NET Core Web API fundamentals
 - RESTful API design
 - Business logic implementation
 - Authentication and authorization
@@ -211,6 +251,7 @@ interests:
 - Secure backend architecture
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🗄️ Database Engineering
@@ -227,6 +268,7 @@ interests:
 - Financial data consistency
 
 </td>
+
 </tr>
 </table>
 
@@ -275,9 +317,20 @@ interests:
 
 ### MentorLink
 
-<img src="https://img.shields.io/badge/Full--Stack-Application-8B5CF6?style=for-the-badge" alt="Full-stack application"/>
-<img src="https://img.shields.io/badge/Architecture-Modular-EC4899?style=for-the-badge" alt="Modular architecture"/>
-<img src="https://img.shields.io/badge/Status-In_Development-06B6D4?style=for-the-badge" alt="Project status"/>
+<img
+src="https://img.shields.io/badge/Full--Stack-Application-8B5CF6?style=for-the-badge"
+alt="Full-stack application"
+/>
+
+<img
+src="https://img.shields.io/badge/Architecture-Modular-EC4899?style=for-the-badge"
+alt="Modular architecture"
+/>
+
+<img
+src="https://img.shields.io/badge/Status-In_Development-06B6D4?style=for-the-badge"
+alt="Project status"
+/>
 
 </div>
 
@@ -287,6 +340,7 @@ interests:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌸 User Features
@@ -297,12 +351,13 @@ interests:
 - One-to-one session booking
 - Group class booking
 - Availability scheduling
-- Real-time messaging concepts
+- Real-time messaging
 - Video session integration
 - Ratings and reviews
 - User notifications
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚡ Financial Features
@@ -319,9 +374,11 @@ interests:
 - Financial reporting
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛡️ Technical Features
@@ -336,6 +393,7 @@ interests:
 - Redis caching concepts
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚀 Future Development
@@ -350,6 +408,7 @@ interests:
 - Queue-based processing
 
 </td>
+
 </tr>
 </table>
 
@@ -359,18 +418,37 @@ interests:
 
 ## 🌌 Currently Exploring
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/React_Native-Mobile_Apps-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/System_Design-Architecture-8B5CF6?style=for-the-badge" alt="System design"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img
+src="https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+alt="ASP.NET Core"
+/>
+
+<img
+src="https://img.shields.io/badge/React_Native-Currently_Learning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+alt="React Native"
+/>
+
+<img
+src="https://img.shields.io/badge/System_Design-Architecture-8B5CF6?style=for-the-badge"
+alt="System design"
+/>
+
+<img
+src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"
+alt="AWS"
+/>
+
+<img
+src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white"
+alt="Redis"
+/>
 
 </div>
 
 <br/>
 
 - ASP.NET Core Web API development
-- React Native application architecture
+- React Native application architecture fundamentals
 - Expo and mobile development workflows
 - Mobile authentication and API integration
 - Domain-driven design
@@ -424,9 +502,9 @@ alt="GitHub activity graph"
 </div>
 
 - Build secure and scalable real-world applications
-- Become a strong full-stack and backend engineer
-- Create professional mobile applications with React Native
-- Master ASP.NET Core and enterprise backend development
+- Become a stronger full-stack and backend developer
+- Build strong React Native mobile development skills
+- Improve my ASP.NET Core backend knowledge
 - Improve system design and software architecture skills
 - Learn cloud deployment and DevOps practices
 - Contribute to professional development teams
@@ -438,7 +516,7 @@ alt="GitHub activity graph"
 
 ## 🌸 Let’s Create Something Amazing
 
-I am open to connecting with developers, mentors, recruiters, and engineering teams working on meaningful web and mobile products.
+I am open to connecting with developers, mentors, recruiters, and engineering teams working on meaningful software products.
 
 <br/>
 
