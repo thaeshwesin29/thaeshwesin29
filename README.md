@@ -11,11 +11,11 @@ alt="Typing animation"
 
 <br/>
 
-<img
+<!-- <img
 src="./anime-girl.png"
 width="340"
 alt="Cute anime girl learning mobile development"
-/>
+/> -->
 
 <br/><br/>
 
