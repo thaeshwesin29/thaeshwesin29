@@ -4,10 +4,10 @@
 
 ### Full-Stack Developer
 
-<img
+<!-- <img
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E879F9&center=true&vCenter=true&width=760&lines=Laravel+%7C+ASP.NET+Core+%7C+Vue.js;Learning+React+Native+Mobile+Development;Building+Secure+and+Scalable+Applications;Clean+Architecture+%7C+System+Design;Turning+Ideas+into+Real+Products"
 alt="Typing animation"
-/>
+/> -->
 
 <br/>
 
